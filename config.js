@@ -1,21 +1,21 @@
 //=============『 Utama 』================== //
-global.owner = ['6287892711054'] 
+global.owner = ['6281259929402'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Hyzer Official'
-global.numberowner = '6287892711054'
-global.instagram = 'https://instagram.com/hyzer_stfu'
-global.github = 'https://github.com/Hyzerr'
-global.dana = '087892711054'
-global.pulsa = '085212023766'
+global.nameowner = 'Dimass Official'
+global.numberowner = '6281259929402'
+global.instagram = 'https://instagram.com/dimasminyy'
+global.github = 'https://github.com/Dimaszkuy'
+global.dana = '081259929402'
+global.pulsa = '081259929402'
 global.gopay = '087892711054'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'Yuno Gasai Bot'
+global.namebot = 'kawaii Bot'
 global.gc = 'bit.ly/AnyaBot-Group'
-global.web = 'https://github.com/Hyzerr' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.web = 'https://github.com/Dimaszkuy' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
@@ -37,7 +37,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
 global.packname = '2022'
-global.author = '© Hyzer Official'
+global.author = '© Dimass Official'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
