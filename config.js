@@ -10,7 +10,7 @@ global.instagram = 'https://instagram.com/dimasminyy'
 global.github = 'https://github.com/Dimaszkuy'
 global.dana = '081259929402'
 global.pulsa = '081259929402'
-global.gopay = '087892711054'
+global.gopay = 'tidak pakai'
 
 //=============『 Info Bot 』=================//
 global.namebot = 'kawaii Bot'
